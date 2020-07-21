@@ -4,3 +4,4 @@ versi 2.4  Ini adalah bot ltccoin tuyulers  # link : https://t.me/Litecoin_click
 
 #Toturial
 [https://www.youtube.com/watch?v=Ht_eGUmdk2c](url)
+![LTC](https://www.youtube.com/watch?v=Ht_eGUmdk2c)
